@@ -1,0 +1,22 @@
+body{
+	/* background: #fafafa; */
+}
+
+nav a{
+	text-shadow: 3px 3px 5px;
+}
+
+nav a:hover{
+	text-decoration: underline !important;
+	/* font-weight: bold !important; */
+	/* text-transform: uppercase !important; */
+}
+
+nav li{
+	/* background-color: rgba(255,255,255,0.7); */
+}
+
+.jumbotron{
+	background: url("../img/blonde-1867768_1280.jpg") 50% 50% !important;
+	background-size: cover;
+}
